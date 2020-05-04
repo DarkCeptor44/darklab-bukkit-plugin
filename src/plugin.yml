@@ -1,0 +1,9 @@
+name: DarkLabPlugin
+version: 0.0.2
+author: DarkCeptor44
+main: com.darklab.plugin.DarkLabMain
+api-version: 1.15
+commands:
+  kit:
+    description: Gives 3 Iron Ingots to player so they can make a pickaxe
+    usage: /<command>
